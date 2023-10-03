@@ -58,7 +58,7 @@
 
 /area/f13/wasteland/city
 	name = "City"
-	icon_state = "yellow"
+	icon_state = "city"
 	ambience_area = list(
 		/datum/looping_sound/ambient/city,
 		/datum/looping_sound/ambient/critters,
@@ -72,7 +72,7 @@
 
 /area/f13/wasteland/town
 	name = "Town"
-	icon_state = "green"
+	icon_state = "town"
 	ambience_area = list(
 		/datum/looping_sound/ambient/town,
 		/datum/looping_sound/ambient/general,
