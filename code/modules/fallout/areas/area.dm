@@ -159,7 +159,7 @@
 
 /area/f13/building/church
 	name = "Church Building"
-	icon_state = "green"
+	icon_state = "church"
 	ambience_area = list(
 		/datum/looping_sound/ambient/general,
 		/datum/looping_sound/ambient/woodcreak,
