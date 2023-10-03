@@ -26564,13 +26564,6 @@
 	},
 /turf/open/indestructible/ground/outside/dirt,
 /area/f13/underground/mountain)
-"mNY" = (
-/obj/item/reagent_containers/food/snacks/f13/canned/porknbeans,
-/turf/open/indestructible/ground/outside/dirt{
-	dir = 8;
-	icon_state = "dirt"
-	},
-/area/f13/wasteland/khans)
 "mNZ" = (
 /obj/structure/rack,
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
@@ -125476,7 +125469,7 @@ xKp
 xKp
 xKp
 xbC
-mNY
+tBZ
 nMm
 iaL
 qNA

@@ -5794,13 +5794,6 @@
 /obj/effect/spawner/lootdrop/f13/junkspawners,
 /turf/open/indestructible/ground/inside/subway,
 /area/f13/sewer/powered)
-"eKR" = (
-/obj/machinery/iv_drip/primitive{
-	pixel_x = 12;
-	pixel_y = 19
-	},
-/turf/closed/mineral/random/no_caves,
-/area/f13/caves)
 "eKV" = (
 /obj/effect/spawner/lootdrop/f13/alcoholspawner,
 /obj/structure/table,
@@ -8368,10 +8361,6 @@
 /obj/item/trash/coal,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/tunnel)
-"gMq" = (
-/obj/machinery/chem_dispenser/drinks/fullupgrade,
-/turf/closed/mineral/random/high_chance,
-/area/f13/caves)
 "gMs" = (
 /obj/structure/simple_door/room,
 /turf/open/indestructible/ground/inside/mountain,
@@ -22481,13 +22470,6 @@
 /obj/item/reagent_containers/food/snacks/f13/deathclawegg,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/tunnel)
-"std" = (
-/obj/machinery/iv_drip/primitive{
-	pixel_x = 12;
-	pixel_y = 19
-	},
-/turf/closed/wall/f13/ruins,
-/area/f13/sewer/powered)
 "stw" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/structure/wreck/trash/three_barrels,
@@ -39377,7 +39359,7 @@ dhU
 dhU
 dhU
 dhU
-gMq
+dhU
 dhU
 klv
 htC
@@ -49442,7 +49424,7 @@ tYm
 tYm
 tYm
 tYm
-eKR
+tYm
 dhU
 dhU
 dhU
@@ -61339,7 +61321,7 @@ aLL
 scC
 xvl
 xvl
-std
+xvl
 xvl
 xvl
 htC
