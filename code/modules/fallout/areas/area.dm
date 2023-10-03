@@ -44,6 +44,7 @@
 
 /area/f13/wasteland/cold
 	name = "Frozen Wasteland"
+	icon_state = "wastelandcold"
 	ambience_area = list(
 		/datum/looping_sound/ambient/critters,
 		/datum/looping_sound/ambient/critters/frogs,
@@ -98,7 +99,7 @@
 
 /area/f13/building/abandoned
 	name = "Abandoned Building"
-	icon_state = "black"
+	icon_state = "abandonedbuilding"
 	requires_power = TRUE
 	ambience_area = list(
 		/datum/looping_sound/ambient/general,
@@ -167,7 +168,7 @@
 
 /area/f13/building/tribal
 	name = "Tribal Building"
-	icon_state = "orange"
+	icon_state = "tribal"
 	ambience_area = list(
 		/datum/looping_sound/ambient/general,
 		/datum/looping_sound/ambient/woodcreak,
@@ -177,7 +178,7 @@
 
 /area/f13/building/tribal/cave
 	name = "Tribal Cave"
-	icon_state = "purple"
+	icon_state = "tribal"
 	ambience_area = list(
 		/datum/looping_sound/ambient/general,
 		/datum/looping_sound/ambient/woodcreak,
@@ -192,7 +193,7 @@
 /area/f13/building/sewers
 	name = "Sewers"
 	requires_power = TRUE
-	icon_state = "blue"
+	icon_state = "sewer"
 	ambience_area = list(
 		/datum/looping_sound/ambient/sewers,
 		/datum/looping_sound/ambient/general,
@@ -1149,5 +1150,5 @@
 
 /area/f13/wasteland/khans
 	name = "Great Khan Encampment"
-	icon_state = "tribe"
+	icon_state = "khanwasteland"
 	weather_tags = list(WEATHER_ALL)
